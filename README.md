@@ -8,7 +8,7 @@ Steps Performed-
 
 3. Insights gathered on data distribution, trends, and relationships.
 
-4 Data Preprocessing
+4. Data Preprocessing
 
 5. Scaling, handling missing values, and outlier treatment.
 
